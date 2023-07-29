@@ -7,4 +7,6 @@ I am a UTSA student currently majoring in Cyber Security.
 <p> </p>
 <div id="badges">
 I am currently serving in the United States Army. I am a Medical Laboratory Technician Sergeant.
+![image](https://github.com/JamisonRed/test-template/assets/138077741/59dcf184-b674-41cb-a765-d04e82420e01)
+
 
